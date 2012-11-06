@@ -1,12 +1,14 @@
 # [liveSense :: Core - org.liveSense.core](http://github.com/liveSense/org.liveSense.core)
 ## Description
 liveSense Core services and utils
+
 ## Exported packages
 * org.liveSense.core(1.0.1.SNAPSHOT)
 * org.liveSense.core.scripting(1.0.1.SNAPSHOT)
 * org.liveSense.core.service(1.0.1.SNAPSHOT)
 * org.liveSense.core.session(1.0.1.SNAPSHOT)
 * org.liveSense.core.wrapper(1.0.1.SNAPSHOT)
+
 ## Dependencies
 * __System Bundle - org.apache.felix.framework (3.0.8)__
 	* javax.crypto
@@ -49,5 +51,6 @@ liveSense Core services and utils
 	* org.slf4j
 
 ## Embedded JARs
+
 ## Dependency Graph
 ![alt text](http://raw.github.com.everydayimmirror.in/robertcsakany/testSVG/master/diagram.svg "")
