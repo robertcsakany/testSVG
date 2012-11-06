@@ -1,7 +1,7 @@
 testSVG
 =======
 
-![alt text](https://github.com/robertcsakany/testSVG/raw/master/test1.svg "Logo Title Text 1")
+![alt text](http://raw.github.com.everydayimmirror.in/robertcsakany/testSVG/master/test1.svg "Logo Title Text 1")
 
 ![alt text](http://croczilla.com/bits_and_pieces/svg/samples/arcs1/arcs1.svg "Logo Title Text 1")
 ![alt text](http://croczilla.com/bits_and_pieces/svg/samples/butterfly/butterfly.svg "Logo Title Text 1")
