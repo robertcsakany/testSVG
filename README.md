@@ -47,6 +47,7 @@ liveSense Core services and utils
 	* org.apache.commons.lang
 * __slf4j-api - slf4j.api (1.6.1)__
 	* org.slf4j
+
 ## Embedded JARs
 ## Dependency Graph
 ![alt text](http://raw.github.com.everydayimmirror.in/robertcsakany/testSVG/master/diagram.svg "")
