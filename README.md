@@ -1,4 +1,5 @@
 # [liveSense :: Core - org.liveSense.core](http://github.com/liveSense/org.liveSense.core)
+
 ## Description
 liveSense Core services and utils
 
@@ -53,4 +54,4 @@ liveSense Core services and utils
 ## Embedded JARs
 
 ## Dependency Graph
-![alt text](http://raw.github.com.everydayimmirror.in/robertcsakany/testSVG/master/diagram.svg "")
+![alt text](http://raw.github.com.everydayimmirror.in/liveSense/org.liveSense.core/master/diagram.svg "")
