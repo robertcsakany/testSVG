@@ -31,29 +31,29 @@ LibraWeb Core - Shared classes accessible for all other LibraWeb packages
 	* org.slf4j
 * __Commons BeanUtils - org.apache.commons.beanutils (1.8.3)__
 	* org.apache.commons.beanutils
-*__[liveSense :: Core - org.liveSense.core (1.0.1.SNAPSHOT)](http://github.com/liveSense/org.liveSense.core)__
+* __[liveSense :: Core - org.liveSense.core (1.0.1.SNAPSHOT)](http://github.com/liveSense/org.liveSense.core)__
 	* org.liveSense.core.session
 * __Apache Commons IO Bundle - org.apache.commons.io (1.4)__
 	* org.apache.commons.io
 * __Commons Lang - org.apache.commons.lang (2.5)__
 	* org.apache.commons.lang
-*__[liveSense :: Framework :: GWT framework - org.liveSense.framework.gwt (2.4.0.1-SNAPSHOT)](http://github.com/liveSense/org.liveSense.framework.gwt)__
+* __[liveSense :: Framework :: GWT framework - org.liveSense.framework.gwt (2.4.0.1-SNAPSHOT)](http://github.com/liveSense/org.liveSense.framework.gwt)__
 	* com.google.gwt.i18n.client
 	* com.google.gwt.user.client.rpc
 	* com.google.web.bindery.autobean.shared
 	* com.google.web.bindery.requestfactory.shared
-*__[LibraWeb I18n - hu.libra.libraweb.i18n (1-SNAPSHOT)](http://wiki.local/index.php/3sWEBhulibralibrawebi18n1SNAPSHOT)__
+* __[LibraWeb I18n - hu.libra.libraweb.i18n (1-SNAPSHOT)](http://wiki.local/index.php/3sWEBhulibralibrawebi18n1SNAPSHOT)__
 	* hu.libra.libraweb.i18n
-*__[liveSense :: Extension :: javax.persistence - org.liveSense.misc.javax.persistence (1.0.1.1_0-SNAPSHOT)](http://github.com/liveSense/org.liveSense.misc.javax.persistence)__
+* __[liveSense :: Extension :: javax.persistence - org.liveSense.misc.javax.persistence (1.0.1.1_0-SNAPSHOT)](http://github.com/liveSense/org.liveSense.misc.javax.persistence)__
 	* javax.persistence
-*__[liveSense :: Misc :: JSR 303 Bean Validation - org.liveSense.misc.jsr303 (1.0.0.1_0_0_GA-SNAPSHOT)](http://github.com/liveSense/org.liveSense.misc.jsr303)__
+* __[liveSense :: Misc :: JSR 303 Bean Validation - org.liveSense.misc.jsr303 (1.0.0.1_0_0_GA-SNAPSHOT)](http://github.com/liveSense/org.liveSense.misc.jsr303)__
 	* javax.validation
-*__[liveSense :: Misc :: SQL QueryBuilder - org.liveSense.misc.queryBuilder (1.0.0.SNAPSHOT)](http://github.com/liveSense/org.liveSense.misc.queryBuilder)__
+* __[liveSense :: Misc :: SQL QueryBuilder - org.liveSense.misc.queryBuilder (1.0.0.SNAPSHOT)](http://github.com/liveSense/org.liveSense.misc.queryBuilder)__
 	* org.liveSense.misc.queryBuilder
-*__[liveSense :: Service :: JDBC DataSource pooler - org.liveSense.service.dataSourceProvider (1.0.0.SNAPSHOT)](http://github.com/liveSense/org.liveSense.service.dataSourceProvider)__
+* __[liveSense :: Service :: JDBC DataSource pooler - org.liveSense.service.dataSourceProvider (1.0.0.SNAPSHOT)](http://github.com/liveSense/org.liveSense.service.dataSourceProvider)__
 	* org.liveSense.api.sql
 
 ## OSGi Embedded JARs
 
 ## Dependency Graph
-![alt text](http://raw.github.com.everydayimmirror.in/robertcsakany/testSVG/master/osgidependencies.svg "")
+![alt text](http://raw.github.com.everydayimmirror.in/liveSense/hu.libra.libraweb.core/master/osgidependencies.svg "")
